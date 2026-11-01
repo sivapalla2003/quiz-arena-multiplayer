@@ -1,0 +1,4 @@
+project_id = "quiz-arena"
+
+[functions.game]
+verify_jwt = true
